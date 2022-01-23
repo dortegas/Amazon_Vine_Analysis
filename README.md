@@ -8,3 +8,6 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
   - Data analytics framework: Apache Spark 3.0.3
   - Programming language: PySpark and Pandas 1.2.4
   - Datasource: Amazon Music reviews (amazon_reviews_us_Music_v1_00.tsv.gz)
+
+## Results
+The Amazon Music Reviews dataset has the following schema as the other dataset reviews:
