@@ -13,3 +13,5 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 The Amazon Music Reviews dataset has the following schema as the other dataset reviews:
 
 <img src="Resources/schema.PNG" width="450" />
+
+We recreated a vine table by filtering the dataset to retrieve all the rows where the “total_votes” count is equal to or greater than 20 to pick reviews that are more likely to be helpful and to avoid having division by zero errors and the number of “helpful_votes” divided by “total_votes” is equal to or greater than 50%
