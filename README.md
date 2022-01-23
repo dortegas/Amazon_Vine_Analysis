@@ -11,4 +11,5 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 ## Results
 The Amazon Music Reviews dataset has the following schema as the other dataset reviews:
-<img src="Resources/schema.PNG" width="250" />
+
+<img src="Resources/schema.PNG" width="450" />
