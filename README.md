@@ -19,16 +19,16 @@ We recreated a vine table by filtering the dataset to retrieve all the rows wher
 To determine if there is any bias towards reviews that were written as part of the Vine program, we filtered the dataset to calculate the total number, the number of 5-star, and the percentage of 5-star reviews for the two types: paid and unpaid, getting the following results.
 
 - Music paid reviews
-<img src="Resources/paid_review.PNG" width="450" />
+<img src="Resources/paid_review.PNG" width="500" />
 
 - Music unpaid reviews
-<img src="Resources/unpaid_review.PNG" width="450" />
+<img src="Resources/unpaid_review.PNG" width="500" />
 
 ## Summary
 The analysis outcome showcase there is not any positivity bias for the music reviews in the Vine program due to the number of paid reviews population representing 0.007 % of the filtered dataset. However, the unpaid reviews have almost 60% with a 5-star rating.
 
 To support any bias presence, we could compare the total reviews paid vs. unpaid, not considering the filter into the dataset population for only rows where the number of “helpful_votes” divided by “total_votes” is equal to or greater than 50%
 
-<img src="Resources/nofiltered_reviews.PNG" width="450" />
+<img src="Resources/nofiltered_reviews.PNG" width="500" />
 
 
