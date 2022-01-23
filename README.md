@@ -25,3 +25,5 @@ To determine if there is any bias towards reviews that were written as part of t
 <img src="Resources/unpaid_review.PNG" width="450" />
 
 ## Summary
+The analysis outcome showcase there is not any positivity bias for the music reviews in the Vine program due to the number of paid reviews population representing 0.007 % of the filtered dataset. However, the unpaid reviews have almost 60% with a 5-star rating.
+
