@@ -15,3 +15,13 @@ The Amazon Music Reviews dataset has the following schema as the other dataset r
 <img src="Resources/schema.PNG" width="450" />
 
 We recreated a vine table by filtering the dataset to retrieve all the rows where the “total_votes” count is equal to or greater than 20 to pick reviews that are more likely to be helpful and to avoid having division by zero errors and the number of “helpful_votes” divided by “total_votes” is equal to or greater than 50%
+
+To determine if there is any bias towards reviews that were written as part of the Vine program, we filtered the dataset to calculate the total number, the number of 5-star, and the percentage of 5-star reviews for the two types: paid and unpaid, getting the following results.
+
+- Music paid reviews
+<img src="Resources/paid_review.PNG" width="450" />
+
+- Music unpaid reviews
+<img src="Resources/unpaid_review.PNG" width="450" />
+
+## Summary
