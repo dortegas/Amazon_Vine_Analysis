@@ -7,4 +7,4 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
   - Development tools: Google Colaboratory
   - Data analytics framework: Apache Spark 3.0.3
   - Programming language: PySpark and Pandas 1.2.4
-  - Datasource: 201908-citibike-tripdata.csv from Citi Bike Trip Histories
+  - Datasource: Amazon Music reviews (amazon_reviews_us_Music_v1_00.tsv.gz)
